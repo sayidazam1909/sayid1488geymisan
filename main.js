@@ -1,0 +1,14 @@
+let userName = prompt("geymisan");
+let userSurname = prompt("aldama");
+ let userAge = +prompt("aldama");
+ let userNam = prompt("aldama");
+let userSurnam = prompt("aldama");
+ let userAg = +prompt("aldama");
+ let userNa = prompt("geymisan");
+let userSurna = prompt("aldama");
+ let userA = +prompt("aldama");
+ let userN = prompt("aldama");
+let userSurn = prompt("aldama");
+ let user = +prompt("aldama");
+let massage = alert("baribir geysan)")
+let javoblar = alert(`ism:${user});`);
